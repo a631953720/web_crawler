@@ -63,6 +63,6 @@ with xlsxwriter.Workbook('天氣資料.xlsx') as workbook:
 
 ### Reference
 selenium的基本使用:<br>
-https://freelancerlife.info/zh/blog/python%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E6%95%99%E5%AD%B8-selenium%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/
+https://freelancerlife.info/zh/blog/python%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E6%95%99%E5%AD%B8-selenium%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/ <br>
 selenium的指令範例:<br>
 https://selenium-python.readthedocs.io/locating-elements.html
