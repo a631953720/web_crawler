@@ -65,6 +65,7 @@ with xlsxwriter.Workbook('天氣資料.xlsx') as workbook:
 VSC文本編輯器無法正常取得python的lib
 
 #### 方法5
+更改python的模式，之後就正常import library了(原因不明)
 ![image](https://github.com/a631953720/web_crawler/blob/master/%E6%8E%92%E9%99%A4VSC%E6%89%BE%E4%B8%8D%E5%88%B0python%E7%9A%84module.png)
 
 ### Reference
