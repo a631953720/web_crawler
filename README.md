@@ -10,9 +10,8 @@
 3.目標網址:https://www.cwb.gov.tw/V8/C/W/week.html <br>
 
 ### 使用工具(python)
-1.BeautifulSoup<br>
-2.selenium(webdriver)<br>
-3.xlsxwriter<br>
+1.selenium(webdriver)<br>
+2.xlsxwriter<br>
 
 ### 實現過程
 
